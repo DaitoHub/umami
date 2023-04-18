@@ -2476,6 +2476,20 @@
     "@typescript-eslint/types" "5.56.0"
     eslint-visitor-keys "^3.3.0"
 
+"@umami/migrate-v1-v2@^0.10.0":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@umami/migrate-v1-v2/-/migrate-v1-v2-0.10.0.tgz#f6ee3af5d3354bc201b1feec0534050b7f3b52b3"
+  integrity sha512-pfxnHD2kSJcHZWY2ZKMvL856nPg/vDZ7tg2tC1Yk8/dpk6Jl+tbKnHt/v8CkLFmJPmfkMSJhwtmu9jVENDXs5w==
+  dependencies:
+    "@prisma/client" "4.11.0"
+    chalk "^4.1.1"
+    del "^6.0.0"
+    dotenv "^10.0.0"
+    fs-extra "^10.0.1"
+    npm-run-all "^4.1.5"
+    prisma "4.11.0"
+    prompts "2.4.2"
+
 "@umami/prisma-client@^0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@umami/prisma-client/-/prisma-client-0.2.0.tgz#b9de1f28be67ccfb9e2544f23c69c392c5b26ea7"
